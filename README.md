@@ -1,3 +1,2 @@
-# Assignment
-GTX technologies 
+# Assignments
 
